@@ -1,0 +1,16 @@
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\bin\Debug\net5.0\Project2.exe
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\bin\Debug\net5.0\Project2.deps.json
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\bin\Debug\net5.0\Project2.runtimeconfig.json
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\bin\Debug\net5.0\Project2.runtimeconfig.dev.json
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\bin\Debug\net5.0\Project2.dll
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\bin\Debug\net5.0\ref\Project2.dll
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\bin\Debug\net5.0\Project2.pdb
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\obj\Debug\net5.0\Project2.csproj.AssemblyReference.cache
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\obj\Debug\net5.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\obj\Debug\net5.0\Project2.AssemblyInfoInputs.cache
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\obj\Debug\net5.0\Project2.AssemblyInfo.cs
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\obj\Debug\net5.0\Project2.csproj.CoreCompileInputs.cache
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\obj\Debug\net5.0\Project2.dll
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\obj\Debug\net5.0\ref\Project2.dll
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\obj\Debug\net5.0\Project2.pdb
+C:\$INFO3138,S2021\Project2_ProgrammingWithDeclarativeLanguages\Project2\Project2\obj\Debug\net5.0\Project2.genruntimeconfig.cache
